@@ -1,0 +1,141 @@
+body {
+    font-family: sans-serif;
+    /* background-color: blue; */
+    padding: 0px 10px;
+  }
+  
+  :root {
+    --btn: #dbdbdb;
+    --btn-hover: #cacaca;
+    --item-bg: #f0f0f0;
+    --model-bg: rgba(141, 141, 141, 0.541);
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header > button {
+    padding: 10px 15px;
+    background-color: var(--btn);
+    border: none;
+    border-radius: 25px;
+    width: 130px;
+    cursor: pointer;
+  }
+  .header > button:hover {
+    background-color: var(--btn-hover);
+  }
+  
+  .employee {
+    display: flex;
+    width: 100%;
+  }
+  
+  .employee > div {
+    border: 1px solid black;
+    overflow-y: scroll;
+    height: 450px;
+  }
+  
+  .employees__names {
+    width: 40%;
+  }
+  
+  .employees__single {
+    width: 60%;
+  }
+  
+  .employee__names--title,
+  .employee__single--title {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .employee__names--title,
+  .employee__single--title {
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    border-bottom: 1px solid black;
+  }
+  
+  .employee__names--list {
+    display: flex !important;
+    flex-direction: column;
+    margin: 20px;
+  }
+  
+  .employee__names--items {
+    cursor: pointer;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: var(--item-bg);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .employee__names--items:hover,
+  .selected {
+    background-color: var(--btn);
+  }
+  
+  .employee__names--info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .addEmployee_page {
+    display: none;
+    position: absolute;
+    top: 20px;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--model-bg);
+  }
+  
+  .closeForm {
+    border: none;
+    background-color: white;
+    position: absolute;
+  }
+  .addEmployee_details {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    background-color: white;
+    width: 550px;
+    padding: 20px;
+    text-align: center;
+  }
+  .addEmployee_details > input {
+    padding: 10px;
+    border-radius: 5px;
+    /* border: none; */
+    /* width: 500px; */
+  }
+  
+  .addEmployee_create--submit {
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  

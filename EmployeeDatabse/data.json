@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1001,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Thomas",
+      "lastName": "Leanon",
+      "email": "thomas.leanon@example.com",
+      "contactNumber": "4123423445",
+      "age": 43,
+      "dob": "1981-05-26",
+      "salary": 50000,
+      "address": "123 Main Street, City, Country"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Kanchan",
+      "lastName": "Leanon",
+      "email": "kanchan.leanon@example.com",
+      "contactNumber": "4123423446",
+      "age": 35,
+      "dob": "1989-08-12",
+      "salary": 60000,
+      "address": "456 Elm Street, City, Country"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Kanchan",
+      "lastName": "Leanon",
+      "email": "kanchan.leanon@example.com",
+      "contactNumber": "4123423446",
+      "age": 35,
+      "dob": "1989-08-12",
+      "salary": 60000,
+      "address": "456 Elm Street, City, Country"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Kanchan",
+      "lastName": "Leanon",
+      "email": "kanchan.leanon@example.com",
+      "contactNumber": "4123423446",
+      "age": 35,
+      "dob": "1989-08-12",
+      "salary": 60000,
+      "address": "456 Elm Street, City, Country"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Kanchan",
+      "lastName": "Leanon",
+      "email": "kanchan.leanon@example.com",
+      "contactNumber": "4123423446",
+      "age": 35,
+      "dob": "1989-08-12",
+      "salary": 60000,
+      "address": "456 Elm Street, City, Country"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Kanchan",
+      "lastName": "Leanon",
+      "email": "kanchan.leanon@example.com",
+      "contactNumber": "4123423446",
+      "age": 35,
+      "dob": "1989-08-12",
+      "salary": 60000,
+      "address": "456 Elm Street, City, Country"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Kanchan",
+      "lastName": "Leanon",
+      "email": "kanchan.leanon@example.com",
+      "contactNumber": "4123423446",
+      "age": 35,
+      "dob": "1989-08-12",
+      "salary": 60000,
+      "address": "456 Elm Street, City, Country"
+    },
+    {
+      "id": 1003,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "contactNumber": "4123423447",
+      "age": 30,
+      "dob": "1994-11-15",
+      "salary": 55000,
+      "address": "789 Oak Street, City, Country"
+    },
+    {
+      "id": 1004,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith@example.com",
+      "contactNumber": "4123423448",
+      "age": 28,
+      "dob": "1996-07-20",
+      "salary": 52000,
+      "address": "101 Pine Street, City, Country"
+    },
+    {
+      "id": 1005,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+      "firstName": "Robert",
+      "lastName": "Brown",
+      "email": "robert.brown@example.com",
+      "contactNumber": "4123423449",
+      "age": 40,
+      "dob": "1984-02-10",
+      "salary": 70000,
+      "address": "202 Cedar Street, City, Country"
+    }
+  ]
+  
